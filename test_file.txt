@@ -1,4 +1,0 @@
-this is text in file.
-new text
-
-new text into file from master branch
