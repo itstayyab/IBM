@@ -1,1 +1,3 @@
-This is text from second commit. 
+This is text from second commit.
+
+This is text from third commit. 
